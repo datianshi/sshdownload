@@ -1,0 +1,6 @@
+username: cfadmin
+password: cfadmin
+host: 192.168.62.133
+port: 22
+file: /tmp/nfs.tar.gz
+cmd: cd /home/cfadmin && tar cz test
